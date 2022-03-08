@@ -1,4 +1,4 @@
-# e-commerce-starter
+# E-commerce starter
 E-commerce MEAN stack using NX CLI
 <br /> 
 
